@@ -3,7 +3,7 @@ name: polyphonic-voice
 description: Convert single-voice content into multi-voiced narrative showing how external judgments become internal monologue, using specific character voices with bracket notation to create readable polyphony.
 license: MIT
 metadata:
-  version: 1.0.4707
+  version: 1.0.4708
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
